@@ -61,6 +61,43 @@ const promptUser = () => {
                     return false;
                 };
             },
+        }, 
+        {
+            type: 'input',
+            name: 'contributors',
+            message: 'Please add any contributors (Required):',
+            validate: contributorsInput => {
+                if (contributorsInput) {
+                    return true;
+                } else {
+                    console.log('Please add contributors!');
+                    return false;
+                };
+            },
+        },
+        {
+            type: 'confirm',
+            name: 'confirmTestInstructions',
+            message: 'Would you like to include test instructions?',
+            default: true
+        },
+        {
+            type: 'input',
+            name: 'testInstructions',
+            message: 'Please enter the test instructions:',
+            when: ({ confirmTestInstructions }) => {
+                if (confirmTestInstructions) {
+                    return true;
+                } else {
+                    return false;
+                };
+            },
+        },
+        {
+            type: 'checkbox',
+            name: 'license',
+            message: 'Please select the license for this project (Required):',
+            choices: ['Apache', 'Academic', 'GNU', 'ISC', 'MIT', 'Mozilla', 'Open']
         }
     ]);
 };
