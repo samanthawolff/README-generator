@@ -11,7 +11,22 @@
 // function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+
+const generateInstallation = installation => {
+  if (!installation) {
+    return '';
+  } 
+
+  return `
+    ## Installation Instructions
+    ${data.installation}
+  `;
+};
+
 function generateMarkdown(data) {
+
+  const {installation} = generateMarkdown;
+
   return `
   # ${data.projectName}
 
@@ -25,10 +40,7 @@ function generateMarkdown(data) {
   * Contributors
   * Test Instructions
   * Questions
-
-  ## Installation Instructions
-  ${data.installation}
-
+  ${generateInstallation(installation)}
   ## Usage
   ${data.usage}
 

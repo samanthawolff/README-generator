@@ -1,8 +1,8 @@
 
-  # samantha
+  # akhdksjha
 
-  ## Decription
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  ## Description
+  dkashdkj
 
   ## Table of Contents (figure out linking later)
   * Installation
@@ -11,23 +11,20 @@
   * Contributors
   * Test Instructions
   * Questions
-
-  ## Installation Instructions
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+  
   ## Usage
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  ashdkadh
 
   ## Licensing
-  MIT
+  Academic
 
   ## Contributions
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  haksjhdka
 
   ## Test Instructions
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  aksdhka
 
   ## Questions
-  GitHub Username: samanthawolff < /br>
-  Email: samanthawolff07@gmail.com < /br>
-  How to Reach out to me: reach me
+  * GitHub Username: shdkajhd
+  * Email: dajsh
+  * How to Reach out to me: akdjs
