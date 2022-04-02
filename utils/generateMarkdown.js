@@ -12,23 +12,12 @@
 
 // TODO: Create a function to generate markdown for README
 
-const generateInstallation = installation => {
-  if (installation) {
-    return '';
-  } 
-
-  return `
-    ## Installation Instructions
-    ${data.installation}
-  `;
-};
 
 function generateMarkdown(data) {
-
-  const {installation} = generateMarkdown;
-
   return `
   # ${data.projectName}
+
+  ![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg)
 
   ## Description
   ${data.projectDescription}
@@ -40,12 +29,15 @@ function generateMarkdown(data) {
   * Contributors
   * Test Instructions
   * Questions
-  ${generateInstallation(installation)}
+  
+  ## Installation Instructions
+  ${data.installation}
+
   ## Usage
   ${data.usage}
 
   ## Licensing
-  ${data.license}
+  This project is licensed under ${data.license}
 
   ## Contributions
   ${data.contributors}
