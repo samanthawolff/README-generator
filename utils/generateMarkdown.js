@@ -32,8 +32,8 @@ function generateMarkdown(data) {
   ${data.testInstructions}
 
   ## Questions
-  * GitHub Username: ${data.githubUsername}
-  * Email: ${data.email}
+  * [Github Account](https://github.com/${data.githubUsername})
+  * Email Me: ${data.email}
   * How to Reach out to me: ${data.reachOut}
 `;
 }

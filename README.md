@@ -1,35 +1,35 @@
 
-  # ashkjdhakjs
+  # sajdhaks
 
-  ![License: Academic](https://img.shields.io/badge/License-Academic-yellow.svg)
+  ![License: Open](https://img.shields.io/badge/License-Open-yellow.svg)
 
   ## Description
-  asjdhkashdka
+  dkjashdkasdk
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Licensing](#licensing)
-  * [Contributors](#contributions)
-  * [Test Instructions](#testing)
+  * [Contributions](#contributions)
+  * [Testing](#testing)
   * [Questions](#questions)
   
   ## Installation
-  asdakdsgkajs
+  aksdhajhdk
 
   ## Usage
-  dakjashdjkhak
+  asjdhakhdsk
 
   ## Licensing
-  This project is licensed under Academic
+  This project is licensed under Open
 
   ## Contributions
-  asjhdkahdks
+  asjdhakhdsk
 
   ## Testing
-  askjhaksdhk
+  asjhdakhdksa
 
   ## Questions
-  * GitHub Username: asjdajskdl
-  * Email: asjkdhaks
-  * How to Reach out to me: akjshdak
+  * [Github Account](https://github.com/samanthawolff)
+  * [Email](samanthawolff07@gmail.com)
+  * How to Reach out to me: ashjkdahskahsk
