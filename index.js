@@ -38,21 +38,16 @@ const promptUser = () => {
             },
         },
 
-        // Installation and confirm installation questions
-        {
-            type: 'confirm',
-            name: 'confirmInstallation',
-            message: 'Would you like to include installation instruction?',
-            default: true
-        },
+        // Installation question
         {
             type: 'input',
             name: 'installation',
             message: 'Please enter the installation instructions:',
-            when: ({ confirmInstallation }) => {
-                if (confirmInstallation) {
+            validate: installationInput => {
+                if (installationInput) {
                     return true;
                 } else {
+                    console.log('Please enter installation instructions for your project!');
                     return false;
                 };
             },
@@ -88,21 +83,16 @@ const promptUser = () => {
             },
         },
 
-        // Test instructions and confirm test instructions questions
-        {
-            type: 'confirm',
-            name: 'confirmTestInstructions',
-            message: 'Would you like to include test instructions?',
-            default: true
-        },
+        // Test instructions question
         {
             type: 'input',
             name: 'testInstructions',
             message: 'Please enter the test instructions:',
-            when: ({ confirmTestInstructions }) => {
-                if (confirmTestInstructions) {
+            validate: testInput => {
+                if (testInput) {
                     return true;
                 } else {
+                    console.log('Please add test instructions!');
                     return false;
                 };
             },

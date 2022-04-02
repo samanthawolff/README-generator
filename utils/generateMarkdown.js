@@ -13,7 +13,7 @@
 // TODO: Create a function to generate markdown for README
 
 const generateInstallation = installation => {
-  if (!installation) {
+  if (installation) {
     return '';
   } 
 
