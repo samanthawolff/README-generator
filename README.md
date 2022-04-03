@@ -1,10 +1,10 @@
 
-  # sajdhaks
+  # Taskinator
 
-  ![License: Open](https://img.shields.io/badge/License-Open-yellow.svg)
+  ![License: Academic](https://img.shields.io/badge/License-Academic-yellow.svg)
 
   ## Description
-  dkjashdkasdk
+  this is a description
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +15,21 @@
   * [Questions](#questions)
   
   ## Installation
-  aksdhajhdk
+  these are installation instructions
 
   ## Usage
-  asjdhakhdsk
+  this is the projects usage
 
   ## Licensing
-  This project is licensed under Open
+  This project is licensed under Academic
 
   ## Contributions
-  asjdhakhdsk
+  me myself and I
 
   ## Testing
-  asjhdakhdksa
+  these are test instructions
 
   ## Questions
   * [Github Account](https://github.com/samanthawolff)
-  * [Email](samanthawolff07@gmail.com)
-  * How to Reach out to me: ashjkdahskahsk
+  * Email Me: samanthawolff07@gmail.com
+  * How to Reach out to me: this is how you reach me!
