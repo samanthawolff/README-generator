@@ -1,10 +1,10 @@
 
-  # Taskinator
+  # README Generator
 
-  ![License: Academic](https://img.shields.io/badge/License-Academic-yellow.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  this is a description
+  This project was made for making README's easier to create! Using Node.js and NPM Inquirer this app will generate a professional README completely from the terminal.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +15,21 @@
   * [Questions](#questions)
   
   ## Installation
-  these are installation instructions
+  The user needs to clone this repository from github and make sure that they have Node installed. This app also requires the file system and npm inquirer.
 
   ## Usage
-  this is the projects usage
+  Answer questions from your terminal to creat your professional README. See how its used here: https://photos.app.goo.gl/B9w41QXPwVtYmToE8
 
   ## Licensing
-  This project is licensed under Academic
+  This project is licensed under MIT
 
   ## Contributions
-  me myself and I
+  No current contributors.
 
   ## Testing
-  these are test instructions
+  NPM test
 
   ## Questions
   * [Github Account](https://github.com/samanthawolff)
   * Email Me: samanthawolff07@gmail.com
-  * How to Reach out to me: this is how you reach me!
+  * How to Reach out to me: Please feel free to reach out to me VIA email!
